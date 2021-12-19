@@ -1,0 +1,10 @@
+.logo{
+    height:50px;
+    width: 50px;
+} 
+
+#contain{
+    background: linear-gradient(to right bottom, rgba(185,202,26,0.7),rgba(243,75,75,0.1s));
+
+    box-shadow: 10px 5px 5px black;
+}

@@ -1,0 +1,45 @@
+.container-footer{
+    background-color:#718d97 ;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* max-width: 400px; */
+    height: 200px;
+    /* margin: 0 auto; */
+    /* align-items: center; */
+    
+   
+   
+}
+#logos{
+    font-size: 60px;
+    /* margin-right: 30px; */
+
+ justify-content: center;
+ 
+}
+#logos:hover{
+    color: purple;
+}
+.copyright {
+   
+    /* position:relative; */
+    /* display: block; */
+    width: auto;
+    /* margin-top: 150px; */
+   justify-content: center;
+    text-align: center;
+    
+}
+
+.little-footer{
+    
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+#copy-box{
+    
+    display: block;
+}
