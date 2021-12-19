@@ -35,7 +35,7 @@ function NavBar() {
         <Nav className="justify-content-end flex-grow-1 pe-3">
   
           
-          <Nav.Link href="https://drive.google.com/file/d/1X4y0aRnM8x-x5v23O61iVMqSLGtE56Hu/view?usp=sharing" target="_blank">Resume</Nav.Link>
+          <Nav.Link href="https://drive.google.com/file/d/1Y1MD-4wrCvNKJ38vDGKIAovjXAqiSqw-/view?usp=sharing" target="_blank">Resume</Nav.Link>
         
         </Nav>
         {/* <Form className="d-flex">
