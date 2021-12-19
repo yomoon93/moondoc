@@ -26,19 +26,17 @@ function ParticlesString() {
                 
                 line_linked: {
                     color:"#ffd500",
-                    enable:false
+                    enable:false,
                     
                 },
             
                 number: {
-                    value: 160,
+                    value: 150,
                 },
                 size: {
-                    value: 3,
+                    value: 2,
                 },
-                // background: {
-                //     color: "#8bccf6",
-                // },
+              
             },
         }}
         />

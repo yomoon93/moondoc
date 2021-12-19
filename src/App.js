@@ -10,7 +10,7 @@ import Footer from './Components/Footer/footer';
 function App() {
   return (
     <div className="App">
-      <ParticlesString/>
+      {/* <ParticlesString/> */}
       <NavBar/>
       <Main/>
       <Skills/>
